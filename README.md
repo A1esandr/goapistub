@@ -1,2 +1,2 @@
 # goapistub
-Stub for simple API on Golang
+Simple stub for API on Golang with Gorilla mux
