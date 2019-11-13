@@ -1,0 +1,7 @@
+{
+  "http": {
+    "timeout": 25,
+    "request_timeout": 500
+  },
+  "listen": ":9900"
+}
